@@ -27,4 +27,7 @@ let bookmark = 456;
 let hasRead = true;
 
 console.log(`${language} was created in ${createdYear}.`);
-console.log(`${lastName} was born ${createdYear}`)
+console.log(`${firstName} was born ${createdYear}`)
+
+
+
